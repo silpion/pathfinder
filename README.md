@@ -71,10 +71,18 @@ Wer möchte kann gern eigene Spielfelder mit Lösungen mittels Pull-Request vors
 * Die Lösung müssen lauffähig und funktionsfähig umgesetzt sein.
 * Jeder Teilnehmer kann beliebig viele Lösungen einschicken, jedoch kann pro Person kann nur ein Los bei der Verlosung gezogen werden.
 * Die **Verlosung findet am [14.05.2014 am Stand 9](http://www.fh-wedel.de/fileadmin/fhw_files/Pressestelle/standplan_Messetag1_copy.pdf) um 13 Uhr** statt.
-* Die Preise finden sich auf unserer Webseite (_Link wird noch eingefügt_).
 * Teilnehmer die während der Verlosung vor Ort sind, können sich ihren Preis direkt aussuchen. Alle anderen Teilnehmer werden per E-Mail kontaktiert.
 * Es gilt immer die aktuellste Version dieser README.md Datei.
 
+## Preise
+
+Es können folgende Preise bei der Verlosung gewonnen werden:
+
+* [Raspberry Pi Ultimate Starter Kit](http://www.amazon.de/Raspberry-Ultimate-Starter-Inklusive-Wesentlich/dp/B00HPZFAXA/) _(Hauptpreis)_
+* [Rückwärtsuhr](http://www.getdigital.de/Rueckwaertsuhr.html)
+* [Panic-Button](http://www.getdigital.de/Panic-Button.html)
+* [Programmiersprachen Supertrumpf](https://www.getdigital.de/Programmiersprachen-Supertrumpf.html)
+* [Sheldon's Wäschefalter](http://www.getdigital.de/Waeschefalter-aus-The-Big-Bang-Theory.html)
 
 ## Fragen
 
