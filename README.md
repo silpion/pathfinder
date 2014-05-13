@@ -2,6 +2,8 @@
 
 Diese Programmieraufgabe wurde von [Silpion IT-Solutions](http://www.silpion.de/) für die [Firmenkontaktmesse 2014](http://www.fh-wedel.de/news/ansicht/artikel/firmenkontaktmesse-2014-die-aussteller/) an die Studenten der [FH-Wedel](http://www.fh-wedel.de/) gestellt. Unter allen eingesendeten Lösungen werden Sachpreise am Tag der Firmenkontaktmesse verlost. Die Aufgabe umfasst das Programmieren eines einfachen Programms um den Weg durch ein gegebenes Spielfeld zu finden.
 
+Der Wettbewerb ist für die Firmenkontaktmesse 2014 geschlossen. Es gibt ein paar Infos zu den [Einsendungen](#Einsendungen).
+
 ## Idee
 
 Eine überschaubare Aufgabe, keine Vorgaben der Technologie und die Möglichkeit etwas zu gewinnen :)
@@ -73,6 +75,23 @@ Wer möchte kann gern eigene Spielfelder mit Lösungen mittels Pull-Request vors
 * Die **Verlosung findet am [14.05.2014 am Stand 9](http://www.fh-wedel.de/fileadmin/fhw_files/Pressestelle/standplan_Messetag1_copy.pdf) um 13 Uhr** statt.
 * Teilnehmer die während der Verlosung vor Ort sind, können sich ihren Preis direkt aussuchen. Alle anderen Teilnehmer werden per E-Mail kontaktiert.
 * Es gilt immer die aktuellste Version dieser README.md Datei.
+
+## Einsendungen
+
+Es gab insgesamt 7 Einsendungen, vielen Dank dafür!
+Alle 7 Einsendungen entsprechen den Regeln und sind funktionsfähig umgesetzt.
+
+Die Aufteilung über die genutzen Programmiersprachen sieht wie folgt aus.
+
+* 1x Delphi/Pascal
+* 1x Typescript
+* 1x Java
+* 4x Haskell
+
+Mehrfach wurde auch der Dijkstra-Algorithmus implementiert.
+
+Bei 7 Einsendungen und 5 Preisen werden zwangsläufig leider 2 Teilnehmer leer ausgehen, doch für diese hätten wir kleine Trostpreise ;)
+Wir freuen uns darauf die Teilnehmer während der Kontaktmesse zu treffen.
 
 ## Preise
 
