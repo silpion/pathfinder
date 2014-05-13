@@ -2,7 +2,7 @@
 
 Diese Programmieraufgabe wurde von [Silpion IT-Solutions](http://www.silpion.de/) für die [Firmenkontaktmesse 2014](http://www.fh-wedel.de/news/ansicht/artikel/firmenkontaktmesse-2014-die-aussteller/) an die Studenten der [FH-Wedel](http://www.fh-wedel.de/) gestellt. Unter allen eingesendeten Lösungen werden Sachpreise am Tag der Firmenkontaktmesse verlost. Die Aufgabe umfasst das Programmieren eines einfachen Programms um den Weg durch ein gegebenes Spielfeld zu finden.
 
-Der Wettbewerb ist für die Firmenkontaktmesse 2014 geschlossen. Es gibt ein paar Infos zu den [Einsendungen](#Einsendungen).
+Der Wettbewerb ist für die Firmenkontaktmesse 2014 geschlossen. Es gibt ein paar Infos zu den [Einsendungen](#einsendungen).
 
 ## Idee
 
